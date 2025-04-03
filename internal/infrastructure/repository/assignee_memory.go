@@ -1,8 +1,9 @@
 package repository
 
 import (
-	"TO_DO_List/internal/domain"
 	"errors"
+
+	"github.com/rezaabaskhanian/to_do_list_go/internal/domain"
 )
 
 type AssigneeMemoryRepository struct {

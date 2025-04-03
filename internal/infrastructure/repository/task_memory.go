@@ -2,7 +2,8 @@ package repository
 
 import (
 	"errors"
-	"to_do_list_go/internal/domain"
+
+	"github.com/rezaabaskhanian/to_do_list_go/internal/domain"
 )
 
 type TaskMemoryRepository struct {
